@@ -1,0 +1,29 @@
+[
+    {
+        "username": "stargirl",
+        "password": "1234",
+        "watchlist": [
+            "mean_girls",
+            "h2o",
+            "interstellar"
+        ],
+        "favorites": [
+            "h2o"
+        ]
+    },
+    {
+        "username": "dina",
+        "password": "abcd",
+        "watchlist": [
+            "devil_wears_prada",
+            "stranger_things"
+        ]
+    },
+    {
+        "username": "masa",
+        "password": "3",
+        "watchlist": [
+            "mean_girls"
+        ]
+    }
+]

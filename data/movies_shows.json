@@ -1,0 +1,147 @@
+
+{
+  "devil_wears_prada": {
+    "title": "The Devil Wears Prada",
+    "year": "2006",
+    "genre": "Drama",
+    "score": 8.4,
+    "description": "A fresh college grad lands a job as an assistant to Miranda Priestly, the ruthless editor of a top fashion magazine. Thrown into a world of glam and chaos, she must choose between her dream job and her personal life.",
+    "director": "David Frankel",
+    "cast": [
+      "Meryl Streep",
+      "Anne Hathaway",
+      "Emily Blunt"
+    ],
+    "duration": "1h 49m",
+    "age": "PG-13",
+    "rating": "6.9",
+    "watch": "https://www.netflix.com",
+    "poster": "devil.jpg"
+  },
+  "lala_land": {
+    "title": "La La Land",
+    "year": "2016",
+    "genre": "Romance",
+    "score": 9.1,
+    "description": "A jazz musician and an aspiring actress fall in love while chasing their dreams in Los Angeles. As their careers take off, they must decide if ambition is worth the cost of love and what truly makes life meaningful.",
+    "director": "Damien Chazelle",
+    "cast": [
+      "Ryan Gosling",
+      "Emma Stone",
+      "John Legend"
+    ],
+    "duration": "2h 8m",
+    "age": "PG-13",
+    "rating": "8.0",
+    "watch": "https://www.netflix.com",
+    "poster": "lala.jpg"
+  },
+  "interstellar": {
+    "title": "Interstellar",
+    "year": "2014",
+    "genre": "Sci-fi",
+    "score": 9.2,
+    "description": "With Earth facing extinction, a group of explorers travel through a wormhole in search of a new home for humanity. As time bends and space unravels, the mission becomes a race against time and emotional gravity.",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain"
+    ],
+    "duration": "2h 49m",
+    "age": "PG-13",
+    "rating": "8.6",
+    "watch": "https://www.netflix.com",
+    "poster": "interstellar.jpg"
+  },
+  "mean_girls": {
+    "title": "Mean Girls",
+    "year": "2004",
+    "genre": "Comedy",
+    "score": 7.5,
+    "description": "Cady Heron, raised in Africa by scientist parents, enters public school for the first time and gets sucked into a social minefield ruled by the popular Plastics. A satirical and iconic look at teen cliques, identity, and girl world drama.",
+    "director": "Mark Waters",
+    "cast": [
+      "Lindsay Lohan",
+      "Rachel McAdams",
+      "Tina Fey"
+    ],
+    "duration": "1h 37m",
+    "age": "PG-13",
+    "rating": "7.0",
+    "watch": "https://www.netflix.com",
+    "poster": "mean.jpg"
+  },
+  "stranger_things": {
+    "title": "Stranger Things",
+    "year": "2016",
+    "genre": "Sci-fi",
+    "score": 8.8,
+    "description": "Set in the '80s, a young boy vanishes from a small town, leading his friends and family into a world of secret experiments, telekinetic powers, and creepy creatures from an alternate dimension called the Upside Down.",
+    "director": "The Duffer Brothers",
+    "cast": [
+      "Millie Bobby Brown",
+      "Finn Wolfhard",
+      "David Harbour"
+    ],
+    "duration": "3 Seasons",
+    "age": "TV-14",
+    "rating": "8.7",
+    "watch": "https://www.netflix.com",
+    "poster": "stranger.jpg"
+  },
+  "h2o": {
+    "title": "H2O: Just Add Water",
+    "year": "2006",
+    "genre": "Fantasy",
+    "score": 6.7,
+    "description": "After a mysterious encounter with a magical island cave, three teenage girls gain mermaid powers. Now, every splash risks exposing their secret while navigating school, friendship, and first crushes.",
+    "director": "Colin Budds",
+    "cast": [
+      "Phoebe Tonkin",
+      "Cariba Heine",
+      "Claire Holt"
+    ],
+    "duration": "30 min",
+    "age": "TV-G",
+    "rating": "7.2",
+    "watch": "https://www.netflix.com",
+    "poster": "h2o.jpg"
+  },
+  "friends": {
+    "title": "Friends",
+    "year": "1994",
+    "genre": "Comedy",
+    "score": 9.0,
+    "description": "Six inseparable friends \u2014 Monica, Ross, Rachel, Chandler, Joey, and Phoebe \u2014 navigate the hilarious highs and lows of life, love, and work in New York City. A heartwarming and iconic sitcom that shaped a generation.",
+    "director": "Various",
+    "cast": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Matthew Perry"
+    ],
+    "duration": "10 Seasons",
+    "age": "TV-14",
+    "rating": "8.9",
+    "watch": "https://www.netflix.com",
+    "poster": "friends.jpg"
+  },
+  "adventure_time": {
+    "title": "Adventure Time",
+    "year": "2010",
+    "genre": "Adventure",
+    "score": 9.0,
+    "description": "In the Land of Ooo, Finn the Human and Jake the Dog embark on wild, colorful adventures, fighting evil, making friends, and learning the weirdness of growing up \u2014 with swords, songs, and lots of surreal fun.",
+    "director": "Pendleton Ward",
+    "cast": [
+      "Jeremy Shada",
+      "John DiMaggio",
+      "Tom Kenny"
+    ],
+    "duration": "11 min",
+    "age": "TV-PG",
+    "rating": "8.6",
+    "watch": "https://www.netflix.com",
+    "poster": "adventure.jpg"
+  }
+}

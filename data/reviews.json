@@ -1,0 +1,54 @@
+{
+    "devil_wears_prada": [
+        {
+            "username": "stargirl",
+            "rating": "8",
+            "comment": "Amazing movie!!!"
+        },
+        {
+            "username": "dina",
+            "rating": "9",
+            "comment": "my favorite movie i totally recommend if you love fashion\ud83d\ude0d"
+        }
+    ],
+    "mean_girls": [
+        {
+            "username": "stargirl",
+            "rating": "8",
+            "comment": "so funny\ud83e\udd23\ud83e\udd23"
+        },
+        {
+            "username": "masa",
+            "rating": "10",
+            "comment": "love this movie!"
+        }
+    ],
+    "stranger_things": [
+        {
+            "username": "dina",
+            "rating": "8",
+            "comment": "so scary but fun and thrilling to watch"
+        }
+    ],
+    "h2o": [
+        {
+            "username": "dina",
+            "rating": "10",
+            "comment": "mermaids!!!"
+        }
+    ],
+    "adventure_time": [
+        {
+            "username": "stargirl",
+            "rating": "8",
+            "comment": "So nostalgic !!"
+        }
+    ],
+    "lala_land": [
+        {
+            "username": "stargirl",
+            "rating": "6",
+            "comment": "i don't like the ending "
+        }
+    ]
+}
